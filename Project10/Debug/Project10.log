@@ -1,0 +1,69 @@
+﻿  Source.cpp
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(4821): warning C4129: '/': unrecognized character escape sequence
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6829): warning C4566: character represented by universal-character-name '\u0639' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6829): warning C4566: character represented by universal-character-name '\u0631' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6829): warning C4566: character represented by universal-character-name '\u0628' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6829): warning C4566: character represented by universal-character-name '\u0649' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6832): warning C4566: character represented by universal-character-name '\u0639' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6832): warning C4566: character represented by universal-character-name '\u0631' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6832): warning C4566: character represented by universal-character-name '\u0628' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6832): warning C4566: character represented by universal-character-name '\u0649' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6834): warning C4566: character represented by universal-character-name '\u4E2D' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6834): warning C4566: character represented by universal-character-name '\u6587' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6837): warning C4566: character represented by universal-character-name '\u4E2D' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6837): warning C4566: character represented by universal-character-name '\u6587' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6839): warning C4566: character represented by universal-character-name '\u0395' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6839): warning C4566: character represented by universal-character-name '\u03BB' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6839): warning C4566: character represented by universal-character-name '\u03B7' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6839): warning C4566: character represented by universal-character-name '\u03BD' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6839): warning C4566: character represented by universal-character-name '\u03B9' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6839): warning C4566: character represented by universal-character-name '\u03BA' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6839): warning C4566: character represented by universal-character-name '\u03AC' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6842): warning C4566: character represented by universal-character-name '\u0395' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6842): warning C4566: character represented by universal-character-name '\u03BB' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6842): warning C4566: character represented by universal-character-name '\u03B7' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6842): warning C4566: character represented by universal-character-name '\u03BD' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6842): warning C4566: character represented by universal-character-name '\u03B9' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6842): warning C4566: character represented by universal-character-name '\u03BA' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6842): warning C4566: character represented by universal-character-name '\u03AC' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6844): warning C4566: character represented by universal-character-name '\uD55C' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6844): warning C4566: character represented by universal-character-name '\uAD6D' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6844): warning C4566: character represented by universal-character-name '\uC5B4' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6847): warning C4566: character represented by universal-character-name '\uD55C' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6847): warning C4566: character represented by universal-character-name '\uAD6D' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6847): warning C4566: character represented by universal-character-name '\uC5B4' cannot be represented in the current code page (1252)
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(4769): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(4798): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(5779): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(5797): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(5811): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(5824): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(5848): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(5858): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(5869): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(5884): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(5917): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(5937): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(5955): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6030): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6042): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6054): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6066): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6078): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6090): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6156): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6383): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6407): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6416): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6452): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+c:\users\eizel\documents\visual studio 2015\projects\project10\project10\MainForm.h(6745): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+Source.cpp(386): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+Source.cpp(467): warning C4101: 'str1': unreferenced local variable
+Source.cpp(467): warning C4101: 'str2': unreferenced local variable
+Source.cpp(1348): warning C4101: 'str5': unreferenced local variable
+Source.cpp(1591): warning C4101: 'str5': unreferenced local variable
+Source.cpp(2108): warning C4101: 'str1': unreferenced local variable
+Source.cpp(2108): warning C4101: 'str2': unreferenced local variable
+  MainForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Project10.vcxproj -> C:\Users\eizel\Documents\Visual Studio 2015\Projects\Project10\Debug\Project10.exe
+  Project10.vcxproj -> C:\Users\eizel\Documents\Visual Studio 2015\Projects\Project10\Debug\Project10.pdb (Partial PDB)
