@@ -15,6 +15,6 @@ If you liked the repo then kindly support it by giving it a star ⭐!
 If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
 ## Issues
-[![GitHub issues](https://img.shields.io/github/issues/im-mjunaidiqbal/proj2_Linkify?style=plastic](https://github.com/im-mjunaidiqbal/proj2_Linkify/issues)
+[![GitHub issues](https://img.shields.io/github/issues/im-mjunaidiqbal/proj2_Linkify?style=plastic](https://github.com/im-mjunaidiqbal/proj2_Linkify/issues))
 
 If you face any issue in my project, you can create a new issue in the "Issues Section" and I will be glad to help you out.
