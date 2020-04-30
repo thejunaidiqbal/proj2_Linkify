@@ -10,7 +10,7 @@ You can get in touch with me on my LinkedIn Profile:
 You can follow me on my GitHub Profile for more updates on my Open Source Projects: 
 [![GitHub Follow](https://img.shields.io/badge/Connect-Muhammad%20Junaid%20Iqbal-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/im-mjunaidiqbal)
 
-If you liked the repo then kindly support it by giving it a star ⭐!
+If you liked the repo then kindly support it by giving it a star ⭐⭐⭐⭐⭐!
 
 If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
